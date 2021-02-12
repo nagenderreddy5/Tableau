@@ -9,3 +9,7 @@ Observations from 201601-citibike-tripdata:
 4) At "Pershing Square north" start station, male with the age of 41-50 achieved high number of records.
 
 5) from subsribers data, male has highest number of records [379,312] than female [104.457].
+
+
+URL for my Tableau homework:
+https://public.tableau.com/profile/nagender.reddy.panyala#!/vizhome/NewYorkCitiBikesdataanalysis_NagenderReddyPanyala/Story1?publish=yes
